@@ -4,8 +4,8 @@ import ToDoList from "@/components/ToDoList";
 export default function Home() {
   return (
     <div>
-      <AddToDo> />
-      <ToDolist> />
+      <AddToDo />
+      <ToDolist />
     </div>
     );
 }
